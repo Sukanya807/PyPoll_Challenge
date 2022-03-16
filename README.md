@@ -14,7 +14,7 @@ This project has been undertaken to complete the election audit of a recent loca
 
 ### Summary
 The analysis of the election show that:
-- 369,711 votes were case in total
+- **369,711** votes were case in total
 - There were three counties in the precinct
   - Arapahoe
   - Denver
@@ -24,15 +24,15 @@ The analysis of the election show that:
   - Diana DeGette
   - Raymon Anthony Doane
 - The total number of votes received by each county were
-  - Jefferson county received 10.5% of the total votes with 38,855 votes
-  - Denver county received 82.8% of the total votes with 306,055 votes
-  - Arapahoe county received 6.7% of the total votes with 24,801 votes
+  - **Jefferson county** received 10.5% of the total votes with 38,855 votes
+  - **Denver county** received 82.8% of the total votes with 306,055 votes
+  - **Arapahoe county** received 6.7% of the total votes with 24,801 votes
 - The total number of votes received by each candidate were
-  - Charles Casper Stockham received 23% votes with 85,213 number of votes
-  - Diana DeGette received 73.8% votes with 272,892 number of votes
-  - Raymon Anthony Doane received 3.1% votes with 11,606 number of votes
-- The county that received the highest number of votes was Denver.
-- The winner of the election was Diana DeGette with 272,892 votes(73.8%) 
+  - **Charles Casper Stockham** received 23% votes with 85,213 number of votes
+  - **Diana DeGette** received 73.8% votes with 272,892 number of votes
+  - **Raymon Anthony Doane** received 3.1% votes with 11,606 number of votes
+- The **winning county** that received the highest number of votes was **Denver**.
+- The **winning candidate** of the election was **Diana DeGette** with 272,892 votes(73.8%) 
 
 ![](images/election_results.png)
 
