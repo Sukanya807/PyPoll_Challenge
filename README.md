@@ -122,5 +122,6 @@ print(winning_county_summary)
 txt_file.write(winning_county_summary)
 
 ```
-    
+### Election Audit Summary
+This script can be extremely useful for the election commission as it can be modified and used for calculating election results quickly in other states outside Colorado. We can modify the reader file so that the script can read any csv files and also easily modify the county and candidate details for any election.
 
