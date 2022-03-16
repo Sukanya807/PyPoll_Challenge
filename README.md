@@ -100,4 +100,13 @@ print(county_results)
 txt_file.write(county_results)
 
 ```
+#### 6f: Write an if statement to determine the winning county and get its vote count.
+```
+if (cvotes>winning_votecount) and (county_vote_percentage>winning_votepercentage):
+    winning_votecount=cvotes
+    winning_county=county_name
+    winning_votepercentage=county_vote_percentage
+    
+    ```
+    
 
