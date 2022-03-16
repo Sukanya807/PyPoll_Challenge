@@ -50,5 +50,14 @@ winning_votecount=0
 winning_votepercentage=0
 
 ```
+#### 3: Extract the county name from each row.
+```
+county_name= row[1]
 
+```
+#### 4a: Write an if statement that checks that the county does not match any existing county in the county list.
+```
+if county_name not in county_options:
+
+```
 
