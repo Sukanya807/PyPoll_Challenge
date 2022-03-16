@@ -19,7 +19,7 @@ The analysis of the election show that:
   - Arapahoe
   - Denver
   - Jefferson
- -  There were three candidates who were voted for
+- There were three candidates who were voted for
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
@@ -32,8 +32,23 @@ The analysis of the election show that:
   - Diana DeGette received 73.8% votes with 272,892 number of votes
   - Raymon Anthony Doane received 3.1% votes with 11,606 number of votes
 - The county that received the highest number of votes was Denver.
-- The winner of the election was Diana DeGette with 272,892 votes(73.8%)
+- The winner of the election was Diana DeGette with 272,892 votes(73.8%) 
+
 ![](images/election_results.png)
+
 ### Step-By-Step Codes for 
+#### 1: Create a county list and county votes dictionary.
+```
+county_options= []
+county_votes= {}
+
+```
+#### 2: Track the largest county and county voter turnout.
+```
+winning_county=""
+winning_votecount=0
+winning_votepercentage=0
+
+```
 
 
