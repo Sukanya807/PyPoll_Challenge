@@ -60,4 +60,13 @@ county_name= row[1]
 if county_name not in county_options:
 
 ```
+#### 4b: Add the existing county to the list of counties
+```
+    county_options.append(county_name)
+```
+#### 4c: Begin tracking the county's vote count.
+```
+    county_votes[county_name]=0
+    
+```
 
