@@ -89,5 +89,15 @@ cvotes=county_votes.get(county_name)
 county_vote_percentage=float(cvotes)/float(total_votes)*100
 
 ```
+#### 6d: Print the county results to the terminal.
+```
+county_results=(f"{county_name}: {county_vote_percentage:.1f}% ({cvotes:,})\n")
+print(county_results) 
 
+```
+#### 6e: Save the county votes to a text file. 
+```
+txt_file.write(county_results)
+
+```
 
