@@ -107,6 +107,20 @@ if (cvotes>winning_votecount) and (county_vote_percentage>winning_votepercentage
     winning_county=county_name
     winning_votepercentage=county_vote_percentage
     
-    ```
+```
+#### 7: Print the county with the largest turnout to the terminal.
+```
+winning_county_summary=(
+    f"-------------------------\n"
+    f"Largest County Turnover: {winning_county}\n"
+    f"-------------------------\n")
+print(winning_county_summary)
+
+```
+#### 8: Save the county with the largest turnout to a text file.
+```
+txt_file.write(winning_county_summary)
+
+```
     
 
