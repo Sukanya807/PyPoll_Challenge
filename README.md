@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ### Project Overview
-This project has been undertaken to complete the election audit of a recent local congressional election. For completing this project, we need to calculate
+This project has been undertaken on behalf of the Colorado Board of Elections to complete the election audit of a recent local congressional election. For completing this project, we need to calculate
 1. The total number of votes cast in the congressional election
 2. Breakdown of the number of votes and the percentage of total votes for each county in the precinct
 3. The county that received the largest number of votes
