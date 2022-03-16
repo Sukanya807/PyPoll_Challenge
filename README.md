@@ -95,7 +95,7 @@ county_results=(f"{county_name}: {county_vote_percentage:.1f}% ({cvotes:,})\n")
 print(county_results) 
 
 ```
-![](images/county_results_6d.png)
+![](images/county_results_6d1.png)
 
 #### 6e: Save the county votes to a text file. 
 ```
