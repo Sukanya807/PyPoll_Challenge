@@ -79,4 +79,15 @@ county_votes[county_name] +=1
 for county_name in county_votes:
 
 ```
+#### 6b: Retrieve the county vote count.
+```
+cvotes=county_votes.get(county_name)
+
+```
+#### 6c: Calculate the percentage of votes for the county.
+```
+county_vote_percentage=float(cvotes)/float(total_votes)*100
+
+```
+
 
