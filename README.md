@@ -69,4 +69,14 @@ if county_name not in county_options:
     county_votes[county_name]=0
     
 ```
+#### 5: Add a vote to that county's vote count.
+```
+county_votes[county_name] +=1
+
+```
+#### 6a: Write a for loop to get the county from the county dictionary.
+```
+for county_name in county_votes:
+
+```
 
