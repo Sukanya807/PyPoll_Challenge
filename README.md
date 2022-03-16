@@ -95,6 +95,8 @@ county_results=(f"{county_name}: {county_vote_percentage:.1f}% ({cvotes:,})\n")
 print(county_results) 
 
 ```
+![](images/county_results_6d.png)
+
 #### 6e: Save the county votes to a text file. 
 ```
 txt_file.write(county_results)
@@ -117,6 +119,7 @@ winning_county_summary=(
 print(winning_county_summary)
 
 ```
+![](images/winning_county_summary_7.png)
 #### 8: Save the county with the largest turnout to a text file.
 ```
 txt_file.write(winning_county_summary)
