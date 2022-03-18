@@ -37,6 +37,9 @@ The analysis of the election show that:
 ![](images/election_results.png)
 
 ### Step-By-Step Codes for the Challenge
+
+Please refer to [PyPoll_Challenge](https://github.com/Sukanya807/PyPoll_Challenge/blob/main/PyPoll_Challenge.py) file for the complete analysis.
+
 #### 1: Create a county list and county votes dictionary.
 ```
 county_options= []
