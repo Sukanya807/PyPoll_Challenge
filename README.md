@@ -36,7 +36,7 @@ The analysis of the election show that:
 
 ![](images/election_results.png)
 
-### Step-By-Step Codes for 
+### Step-By-Step Codes for the Challenge
 #### 1: Create a county list and county votes dictionary.
 ```
 county_options= []
@@ -126,5 +126,5 @@ txt_file.write(winning_county_summary)
 
 ```
 ### Election Audit Summary
-This script can be extremely useful for the election commission as it can be modified and used for calculating election results quickly in other states outside Colorado. We can modify the reader file so that the script can read any csv files and also easily modify the county and candidate details for any election.
+This script can be extremely useful for the election commission as it can be modified and used for calculating election results quickly in other states outside Colorado as well. It can be used to analyze election results for 'n' number of provinces or candidates. With certain modifications in the script , we can analyze data from additional columns as well such as the ballot ID or the date when the vote was cast. We can also modify the script and analyze the data in terms of voter turnout in each county. Finally, a similar script can be used for federal elections as well where we can analyze the election results by states instead of counties.
 
